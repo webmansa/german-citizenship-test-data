@@ -98,7 +98,7 @@ This data is compiled from publicly available official German citizenship test m
 
 ## Resources
 
-- [Official BAMF Information (Bundesamt für Migration und Flüchtlinge)](https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/Integrationskurse/Abschlusspruefung/Einbuergerungstest/einbuergerungstest-node.html)
+- [Official BAMF Information (Bundesamt für Migration und Flüchtlinge)](https://www.bamf.de/DE/Startseite/startseite_node.html)
 
 ## Please support me if you enjoy using this data
 
