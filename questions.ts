@@ -230,7 +230,7 @@ export const questions: Question[] = [
     question: "Welches ist das Wappen der Bundesrepublik Deutschland?",
     answers: ["1", "2", "3", "4"],
     correctAnswer: 0,
-    imageUrl: "assets/images/021.png",
+    imageUrl: "images/021.png",
   },
   {
     id: 22,
@@ -577,7 +577,7 @@ export const questions: Question[] = [
       "das Bundeskanzleramt in Berlin",
     ],
     correctAnswer: 0,
-    imageUrl: "assets/images/055.png",
+    imageUrl: "images/055.png",
   },
   {
     id: 56,
@@ -739,7 +739,7 @@ export const questions: Question[] = [
       "Er / Sie schlägt den Kanzler / die Kanzlerin zur Wahl vor.",
     ],
     correctAnswer: 3,
-    imageUrl: "assets/images/070.png",
+    imageUrl: "images/070.png",
   },
   {
     id: 71,
@@ -1380,7 +1380,7 @@ export const questions: Question[] = [
     question: "Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?",
     answers: ["1", "2", "3", "4"],
     correctAnswer: 0,
-    imageUrl: "assets/images/130.png",
+    imageUrl: "images/130.png",
   },
   {
     id: 131,
@@ -1855,7 +1855,7 @@ export const questions: Question[] = [
       "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich",
     ],
     correctAnswer: 2,
-    imageUrl: "assets/images/176.png",
+    imageUrl: "images/176.png",
   },
   {
     id: 177,
@@ -1909,7 +1909,7 @@ export const questions: Question[] = [
       "Er sprach ein Gebet am Grab des Unbekannten Soldaten.",
     ],
     correctAnswer: 1,
-    imageUrl: "assets/images/181.png",
+    imageUrl: "images/181.png",
   },
   {
     id: 182,
@@ -1967,7 +1967,7 @@ export const questions: Question[] = [
       '"Drittes Reich"',
     ],
     correctAnswer: 2,
-    imageUrl: "assets/images/187.png",
+    imageUrl: "images/187.png",
   },
   {
     id: 188,
@@ -2175,7 +2175,7 @@ export const questions: Question[] = [
     question: "Welches war das Wappen der Deutschen Demokratischen Republik?",
     answers: ["1", "2", "3", "4"],
     correctAnswer: 3,
-    imageUrl: "assets/images/209.png",
+    imageUrl: "images/209.png",
   },
   {
     id: 210,
@@ -2249,7 +2249,7 @@ export const questions: Question[] = [
       "die Reichskrone.",
     ],
     correctAnswer: 1,
-    imageUrl: "assets/images/216.png",
+    imageUrl: "images/216.png",
   },
   {
     id: 217,
@@ -2335,7 +2335,7 @@ export const questions: Question[] = [
     question: "Welche ist die Flagge der Europäischen Union?",
     answers: ["2", "1", "4", "3"],
     correctAnswer: 0,
-    imageUrl: "assets/images/226.png",
+    imageUrl: "images/226.png",
   },
   {
     id: 227,
@@ -2413,7 +2413,7 @@ export const questions: Question[] = [
       "einheitliche Feiertage in den Ländern der EU",
     ],
     correctAnswer: 2,
-    imageUrl: "assets/images/235.png",
+    imageUrl: "images/235.png",
   },
   {
     id: 236,
@@ -3139,7 +3139,7 @@ export const questions: Question[] = [
     question: "Welches Wappen gehört zum Bundesland Berlin?",
     answers: ["1", "2", "3", "4"],
     correctAnswer: 3,
-    imageUrl: "assets/images/301.png",
+    imageUrl: "images/301.png",
   },
   {
     id: 302,
@@ -3189,7 +3189,7 @@ export const questions: Question[] = [
     question: "Welches Bundesland ist Berlin?",
     answers: ["1", "2", "3", "4"],
     correctAnswer: 3,
-    imageUrl: "assets/images/308.png",
+    imageUrl: "images/308.png",
   },
   {
     id: 309,
