@@ -10,9 +10,9 @@ This repository contains the official questions from the German citizenship test
 
 ```
 data/
+└── images/
 ├── questions.ts       # TypeScript file containing all test questions
-└── assets/
-    └── images/        # Supporting images for questions
+
 ```
 
 ## Data Format
