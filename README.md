@@ -72,6 +72,7 @@ console.log(firstQuestion.answers[firstQuestion.correctAnswer]); // Correct answ
 ## About the Test
 
 The German citizenship test (Einbürgerungstest) consists of:
+
 - 33 multiple-choice questions
 - 4 possible answers per question (only one is correct)
 - Questions covering topics such as:
@@ -86,6 +87,7 @@ To pass the test, applicants must answer at least 17 out of 33 questions correct
 ## Contributing
 
 Contributions are welcome! Please ensure that:
+
 - Questions are accurate and sourced from official materials
 - The data format is maintained
 - All text is in German (as per the official test)
@@ -100,8 +102,7 @@ This data is compiled from publicly available official German citizenship test m
 
 ## Please support me if you enjoy using this data
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/webmansa)
-
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/webmansa)
 
 ## Disclaimer
 
